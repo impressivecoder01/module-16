@@ -29,3 +29,5 @@ const add = college.events.push('dower competition');
 console.log(college.events[2])
 console.log(college)
 console.log(ary)
+delete college.unique
+console.log(college)
